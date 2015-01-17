@@ -7,7 +7,7 @@ Gem::Specification.new do |spec|
   spec.name          = "peek-memcached"
   spec.version       = Peek::Memcached::VERSION
   spec.authors       = ["Masaki YOSHIDA"]
-  spec.email         = ["yoshida@vasily.jp"]
+  spec.email         = ["yoshida.masaki@gmail.com"]
   spec.summary       = %q{Take a peek into the Memcached calls made within your Rails application.}
   spec.description   = %q{Take a peek into the Memcached calls made within your Rails application.}
   spec.homepage      = "http://github.com/ReSTARTR/peek-memcached"
